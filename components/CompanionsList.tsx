@@ -83,7 +83,7 @@ const CompanionsList = ({
                     alt="minutes"
                     width={14}
                     height={14}
-                    className="max-md:hidden"
+                    className="md:hidden"
                   />
                 </div>
               </TableCell>
